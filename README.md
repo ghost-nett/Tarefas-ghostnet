@@ -1,7 +1,7 @@
 # Tarefas-ghostnet
 <div align="center">
 
-# 👻 GHOSTNET AUTOMATION
+# 👻 GHOSTNET AUTOMATOMAÇÃO
 ### Sistema de Automação Inteligente para Sala do Futuro
 
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-brightgreen?style=for-the-badge&logo=appveyor)
