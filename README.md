@@ -40,5 +40,5 @@ O sistema conta com um painel de controle estilo "Cyberpunk" onde você pode:
 ---
 
 <div align="center">
-  <sub>Desenvolvido por Miguel Ribeiro dos Reis</sub>
+  <sub>Desenvolvido por ghostnet</sub>
 </div>
